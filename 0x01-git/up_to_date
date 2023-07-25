@@ -1,2 +1,2 @@
 git command line used:
-touch up_to_date
+git pull origin master
